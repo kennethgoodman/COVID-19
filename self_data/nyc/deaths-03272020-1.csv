@@ -1,0 +1,17 @@
+first,second,Underlying Conditions,..1
+Age Group,0 to 17,,0.0
+Age Group,18 to 44,,16.0
+Age Group,45 to 64,,78.0
+Age Group,65 to 74,,90.0
+Age Group,75 and over,,182.0
+Sex,Female,,151.0
+Sex,Male,,215.0
+Borough,Bronx,,79.0
+Borough,Brooklyn,,82.0
+Borough,Manhattan,,55.0
+Borough,Queens,,124.0
+Borough,Staten Island,,26.0
+Borough,Underlying Illness1,,
+Borough,Yes,,310.0
+Borough,No,,11.0
+Borough,Pending Investigation,,45.0

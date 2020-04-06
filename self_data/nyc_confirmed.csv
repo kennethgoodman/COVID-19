@@ -1,0 +1,269 @@
+dt,first,second,Total Cases
+2020-03-26 17:00:00,Age Group,0 to 17,470
+2020-03-26 17:00:00,Age Group,18 to 44,9618
+2020-03-26 17:00:00,Age Group,45 to 64,7445
+2020-03-26 17:00:00,Age Group,65 to 74,2471
+2020-03-26 17:00:00,Age Group,75 and over,1826
+2020-03-26 17:00:00,Age Group,Unknown,43
+2020-03-26 17:00:00,Age 50 and over,Yes,9863
+2020-03-26 17:00:00,Age 50 and over,No,11967
+2020-03-26 17:00:00,Sex,Female,9557
+2020-03-26 17:00:00,Sex,Male,12278
+2020-03-26 17:00:00,Sex,Unknown,38
+2020-03-26 17:00:00,Borough,Bronx,3924
+2020-03-26 17:00:00,Borough,Brooklyn,5705
+2020-03-26 17:00:00,Borough,Manhattan,3907
+2020-03-26 17:00:00,Borough,Queens,7026
+2020-03-26 17:00:00,Borough,Staten Island,1276
+2020-03-26 17:00:00,Borough,Unknown,35
+2020-04-02 17:00:00,Age Group,0 to 17,860
+2020-04-02 17:00:00,Age Group,18 to 44,19835
+2020-04-02 17:00:00,Age Group,45 to 64,17035
+2020-04-02 17:00:00,Age Group,65 to 74,5946
+2020-04-02 17:00:00,Age Group,75 and over,4678
+2020-04-02 17:00:00,Age Group,Unknown,108
+2020-04-02 17:00:00,Age 50 and over,Yes,23485
+2020-04-02 17:00:00,Age 50 and over,No,24869
+2020-04-02 17:00:00,Sex,Female,21890
+2020-04-02 17:00:00,Sex,Male,26509
+2020-04-02 17:00:00,Sex,Unknown,63
+2020-04-02 17:00:00,Borough,Bronx,9107
+2020-04-02 17:00:00,Borough,Brooklyn,12983
+2020-04-02 17:00:00,Borough,Manhattan,7278
+2020-04-02 17:00:00,Borough,Queens,16336
+2020-04-02 17:00:00,Borough,Staten Island,2723
+2020-04-02 17:00:00,Borough,Unknown,35
+2020-04-04 17:00:00,Age Group,0 to 17,1046
+2020-04-04 17:00:00,Age Group,18 to 44,23492
+2020-04-04 17:00:00,Age Group,45 to 64,21167
+2020-04-04 17:00:00,Age Group,65 to 74,7528
+2020-04-04 17:00:00,Age Group,75 and over,6130
+2020-04-04 17:00:00,Age Group,Unknown,124
+2020-04-04 17:00:00,Age 50 and over,Yes,29761
+2020-04-04 17:00:00,Age 50 and over,No,29602
+2020-04-04 17:00:00,Sex,Female,26991
+2020-04-04 17:00:00,Sex,Male,32412
+2020-04-04 17:00:00,Sex,Unknown,84
+2020-04-04 17:00:00,Borough,Bronx,11497
+2020-04-04 17:00:00,Borough,Brooklyn,16243
+2020-04-04 17:00:00,Borough,Manhattan,8653
+2020-04-04 17:00:00,Borough,Queens,19793
+2020-04-04 17:00:00,Borough,Staten Island,3266
+2020-04-04 17:00:00,Borough,Unknown,35
+2020-03-27 17:00:00,Age Group,0 to 17,524
+2020-03-27 17:00:00,Age Group,18 to 44,11202
+2020-03-27 17:00:00,Age Group,45 to 64,8745
+2020-03-27 17:00:00,Age Group,65 to 74,2894
+2020-03-27 17:00:00,Age Group,75 and over,2141
+2020-03-27 17:00:00,Age Group,Unknown,67
+2020-03-27 17:00:00,Age 50 and over,Yes,11606
+2020-03-27 17:00:00,Age 50 and over,No,13900
+2020-03-27 17:00:00,Sex,Female,11250
+2020-03-27 17:00:00,Sex,Male,14279
+2020-03-27 17:00:00,Sex,Unknown,44
+2020-03-27 17:00:00,Borough,Bronx,4655
+2020-03-27 17:00:00,Borough,Brooklyn,6750
+2020-03-27 17:00:00,Borough,Manhattan,4478
+2020-03-27 17:00:00,Borough,Queens,8214
+2020-03-27 17:00:00,Borough,Staten Island,1440
+2020-03-27 17:00:00,Borough,Unknown,36
+2020-04-03 17:00:00,Age Group,0 to 17,933
+2020-04-03 17:00:00,Age Group,18 to 44,21423
+2020-04-03 17:00:00,Age Group,45 to 64,18700
+2020-04-03 17:00:00,Age Group,65 to 74,6565
+2020-04-03 17:00:00,Age Group,75 and over,5211
+2020-04-03 17:00:00,Age Group,Unknown,116
+2020-04-03 17:00:00,Age 50 and over,Yes,25944
+2020-04-03 17:00:00,Age 50 and over,No,26888
+2020-04-03 17:00:00,Sex,Female,24020
+2020-04-03 17:00:00,Sex,Male,28852
+2020-04-03 17:00:00,Sex,Unknown,76
+2020-04-03 17:00:00,Borough,Bronx,9936
+2020-04-03 17:00:00,Borough,Brooklyn,14420
+2020-04-03 17:00:00,Borough,Manhattan,7713
+2020-04-03 17:00:00,Borough,Queens,17832
+2020-04-03 17:00:00,Borough,Staten Island,3012
+2020-04-03 17:00:00,Borough,Unknown,35
+2020-04-05 17:00:00,Age Group,0 to 17,1124
+2020-04-05 17:00:00,Age Group,18 to 44,24994
+2020-04-05 17:00:00,Age Group,45 to 64,22694
+2020-04-05 17:00:00,Age Group,65 to 74,8097
+2020-04-05 17:00:00,Age Group,75 and over,6722
+2020-04-05 17:00:00,Age Group,Unknown,136
+2020-04-05 17:00:00,Age 50 and over,Yes,32113
+2020-04-05 17:00:00,Age 50 and over,No,31518
+2020-04-05 17:00:00,Sex,Female,29037
+2020-04-05 17:00:00,Sex,Male,34640
+2020-04-05 17:00:00,Sex,Unknown,90
+2020-04-05 17:00:00,Borough,Bronx,12467
+2020-04-05 17:00:00,Borough,Brooklyn,17257
+2020-04-05 17:00:00,Borough,Manhattan,9135
+2020-04-05 17:00:00,Borough,Queens,21342
+2020-04-05 17:00:00,Borough,Staten Island,3530
+2020-04-05 17:00:00,Borough,Unknown,36
+2020-03-24 17:00:00,Age Group,0 to 17,374
+2020-03-24 17:00:00,Age Group,18 to 44,6786
+2020-03-24 17:00:00,Age Group,45 to 64,4906
+2020-03-24 17:00:00,Age Group,65 to 74,1591
+2020-03-24 17:00:00,Age Group,75 and over,1109
+2020-03-24 17:00:00,Age Group,Unknown,10
+2020-03-24 17:00:00,Age 50 and over,Yes,6341
+2020-03-24 17:00:00,Age 50 and over,No,8425
+2020-03-24 17:00:00,Sex,Female,6374
+2020-03-24 17:00:00,Sex,Male,8379
+2020-03-24 17:00:00,Sex,Unknown,23
+2020-03-24 17:00:00,Borough,Bronx,2328
+2020-03-24 17:00:00,Borough,Brooklyn,4237
+2020-03-24 17:00:00,Borough,Manhattan,2887
+2020-03-24 17:00:00,Borough,Queens,4364
+2020-03-24 17:00:00,Borough,Staten Island,953
+2020-03-24 17:00:00,Borough,Unknown,7
+2020-03-30 17:00:00,Age Group,0 to 17,652
+2020-03-30 17:00:00,Age Group,18 to 44,15202
+2020-03-30 17:00:00,Age Group,45 to 64,12652
+2020-03-30 17:00:00,Age Group,65 to 74,4312
+2020-03-30 17:00:00,Age Group,75 and over,3309
+2020-03-30 17:00:00,Age Group,Unknown,94
+2020-03-30 17:00:00,Age 50 and over,Yes,17169
+2020-03-30 17:00:00,Age 50 and over,No,18958
+2020-03-30 17:00:00,Sex,Female,16036
+2020-03-30 17:00:00,Sex,Male,20139
+2020-03-30 17:00:00,Sex,Unknown,46
+2020-03-30 17:00:00,Borough,Bronx,6830
+2020-03-30 17:00:00,Borough,Brooklyn,9521
+2020-03-30 17:00:00,Borough,Manhattan,5877
+2020-03-30 17:00:00,Borough,Queens,11868
+2020-03-30 17:00:00,Borough,Staten Island,2091
+2020-03-30 17:00:00,Borough,Unknown,34
+2020-03-29 17:00:00,Age Group,0 to 17,611
+2020-03-29 17:00:00,Age Group,18 to 44,13794
+2020-03-29 17:00:00,Age Group,45 to 64,11146
+2020-03-29 17:00:00,Age Group,65 to 74,3790
+2020-03-29 17:00:00,Age Group,75 and over,2897
+2020-03-29 17:00:00,Age Group,Unknown,70
+2020-03-29 17:00:00,Age 50 and over,Yes,15074
+2020-03-29 17:00:00,Age 50 and over,No,17164
+2020-03-29 17:00:00,Sex,Female,14293
+2020-03-29 17:00:00,Sex,Male,17971
+2020-03-29 17:00:00,Sex,Unknown,44
+2020-03-29 17:00:00,Borough,Bronx,6145
+2020-03-29 17:00:00,Borough,Brooklyn,8451
+2020-03-29 17:00:00,Borough,Manhattan,5438
+2020-03-29 17:00:00,Borough,Queens,10373
+2020-03-29 17:00:00,Borough,Staten Island,1866
+2020-03-29 17:00:00,Borough,Unknown,35
+2020-03-17 17:00:00,Age Group,0 to 4,0
+2020-03-17 17:00:00,Age Group,5 to 17,25
+2020-03-17 17:00:00,Age Group,18 to 49,457
+2020-03-17 17:00:00,Age Group,50 to 64,211
+2020-03-17 17:00:00,Age Group,65 and over,230
+2020-03-17 17:00:00,Sex,Female,378
+2020-03-17 17:00:00,Sex,Male,536
+2020-03-17 17:00:00,Borough,Bronx,106
+2020-03-17 17:00:00,Borough,Brooklyn,236
+2020-03-17 17:00:00,Borough,Manhattan,290
+2020-03-17 17:00:00,Borough,Queens,248
+2020-03-17 17:00:00,Borough,Staten Island,42
+2020-03-17 17:00:00,Borough,Unknown,1
+2020-04-06 17:00:00,Age Group,0 to 17,1179
+2020-04-06 17:00:00,Age Group,18 to 44,26331
+2020-04-06 17:00:00,Age Group,45 to 64,24298
+2020-04-06 17:00:00,Age Group,65 to 74,8631
+2020-04-06 17:00:00,Age Group,75 and over,7243
+2020-04-06 17:00:00,Age Group,Unknown,138
+2020-04-06 17:00:00,Age 50 and over,Yes,34408
+2020-04-06 17:00:00,Age 50 and over,No,33274
+2020-04-06 17:00:00,Sex,Female,30912
+2020-04-06 17:00:00,Sex,Male,36814
+2020-04-06 17:00:00,Sex,Unknown,94
+2020-04-06 17:00:00,Borough,Bronx,13397
+2020-04-06 17:00:00,Borough,Brooklyn,18215
+2020-04-06 17:00:00,Borough,Manhattan,9624
+2020-04-06 17:00:00,Borough,Queens,22767
+2020-04-06 17:00:00,Borough,Staten Island,3780
+2020-04-06 17:00:00,Borough,Unknown,37
+2020-03-31 17:00:00,Age Group,0 to 17,748
+2020-03-31 17:00:00,Age Group,18 to 44,17038
+2020-03-31 17:00:00,Age Group,45 to 64,14395
+2020-03-31 17:00:00,Age Group,65 to 74,4883
+2020-03-31 17:00:00,Age Group,75 and over,3739
+2020-03-31 17:00:00,Age Group,Unknown,97
+2020-03-31 17:00:00,Age 50 and over,Yes,19481
+2020-03-31 17:00:00,Age 50 and over,No,21322
+2020-03-31 17:00:00,Sex,Female,18264
+2020-03-31 17:00:00,Sex,Male,22587
+2020-03-31 17:00:00,Sex,Unknown,49
+2020-03-31 17:00:00,Borough,Bronx,7625
+2020-03-31 17:00:00,Borough,Brooklyn,10904
+2020-03-31 17:00:00,Borough,Manhattan,6446
+2020-03-31 17:00:00,Borough,Queens,13576
+2020-03-31 17:00:00,Borough,Staten Island,2314
+2020-03-31 17:00:00,Borough,Unknown,35
+2020-03-25 17:00:00,Age Group,0 to 17,400
+2020-03-25 17:00:00,Age Group,18 to 44,7556
+2020-03-25 17:00:00,Age Group,45 to 64,5619
+2020-03-25 17:00:00,Age Group,65 to 74,1843
+2020-03-25 17:00:00,Age Group,75 and over,1360
+2020-03-25 17:00:00,Age Group,Unknown,10
+2020-03-25 17:00:00,Age 50 and over,Yes,7385
+2020-03-25 17:00:00,Age 50 and over,No,9393
+2020-03-25 17:00:00,Sex,Female,7303
+2020-03-25 17:00:00,Sex,Male,9460
+2020-03-25 17:00:00,Sex,Unknown,25
+2020-03-25 17:00:00,Borough,Bronx,2789
+2020-03-25 17:00:00,Borough,Brooklyn,4656
+2020-03-25 17:00:00,Borough,Manhattan,3187
+2020-03-25 17:00:00,Borough,Queens,5066
+2020-03-25 17:00:00,Borough,Staten Island,1084
+2020-03-25 17:00:00,Borough,Unknown,6
+2020-04-01 17:00:00,Age Group,0 to 17,803
+2020-04-01 17:00:00,Age Group,18 to 44,18463
+2020-04-01 17:00:00,Age Group,45 to 64,15818
+2020-04-01 17:00:00,Age Group,65 to 74,5484
+2020-04-01 17:00:00,Age Group,75 and over,4241
+2020-04-01 17:00:00,Age Group,Unknown,106
+2020-04-01 17:00:00,Age 50 and over,Yes,21655
+2020-04-01 17:00:00,Age 50 and over,No,23154
+2020-04-01 17:00:00,Sex,Female,20144
+2020-04-01 17:00:00,Sex,Male,24715
+2020-04-01 17:00:00,Sex,Unknown,56
+2020-04-01 17:00:00,Borough,Bronx,8398
+2020-04-01 17:00:00,Borough,Brooklyn,12076
+2020-04-01 17:00:00,Borough,Manhattan,6960
+2020-04-01 17:00:00,Borough,Queens,14966
+2020-04-01 17:00:00,Borough,Staten Island,2480
+2020-04-01 17:00:00,Borough,Unknown,35
+2020-03-28 17:00:00,Age Group,0 to 17,573
+2020-03-28 17:00:00,Age Group,18 to 44,12590
+2020-03-28 17:00:00,Age Group,45 to 64,10019
+2020-03-28 17:00:00,Age Group,65 to 74,3354
+2020-03-28 17:00:00,Age Group,75 and over,2568
+2020-03-28 17:00:00,Age Group,Unknown,54
+2020-03-28 17:00:00,Age 50 and over,Yes,13468
+2020-03-28 17:00:00,Age 50 and over,No,15636
+2020-03-28 17:00:00,Sex,Female,12928
+2020-03-28 17:00:00,Sex,Male,16192
+2020-03-28 17:00:00,Sex,Unknown,38
+2020-03-28 17:00:00,Borough,Bronx,5352
+2020-03-28 17:00:00,Borough,Brooklyn,7789
+2020-03-28 17:00:00,Borough,Manhattan,5036
+2020-03-28 17:00:00,Borough,Queens,9228
+2020-03-28 17:00:00,Borough,Staten Island,1718
+2020-03-28 17:00:00,Borough,Unknown,35
+2020-03-23 17:00:00,Age Group,0 to 17,323
+2020-03-23 17:00:00,Age Group,18 to 44,5704
+2020-03-23 17:00:00,Age Group,45 to 64,4069
+2020-03-23 17:00:00,Age Group,65 to 74,1308
+2020-03-23 17:00:00,Age Group,75 and over,930
+2020-03-23 17:00:00,Age Group,Unknown,5
+2020-03-23 17:00:00,Age 50 and over,Yes,5237
+2020-03-23 17:00:00,Age 50 and over,No,7097
+2020-03-23 17:00:00,Sex,Female,5255
+2020-03-23 17:00:00,Sex,Male,7067
+2020-03-23 17:00:00,Sex,Unknown,17
+2020-03-23 17:00:00,Borough,Bronx,1829
+2020-03-23 17:00:00,Borough,Brooklyn,3494
+2020-03-23 17:00:00,Borough,Manhattan,2572
+2020-03-23 17:00:00,Borough,Queens,3621
+2020-03-23 17:00:00,Borough,Staten Island,817
+2020-03-23 17:00:00,Borough,Unknown,6

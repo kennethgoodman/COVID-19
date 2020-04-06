@@ -1,0 +1,16 @@
+first,second,hospitalized,confirmed
+,0 to 17,83,816.0
+,18 to 44,1711,18767.0
+,45 to 64,3658,16104.0
+,65 to 74,2114,5584.0
+,75 and over,2209,4328.0
+,Unknown,0,108.0
+Sex,Female,3980,20522.0
+Sex,Male,5792,25128.0
+Sex,Unknown,3,57.0
+Borough,Bronx,2414,8608.0
+Borough,Brooklyn,2229,12274.0
+Borough,Manhattan,1287,7021.0
+Borough,Queens,3287,15217.0
+Borough,Staten Island,549,2552.0
+Borough,Unknown,9,35.0
