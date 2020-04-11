@@ -33,6 +33,23 @@ dt,first,second,Total Cases
 2020-04-02 17:00:00,Borough,Queens,16336
 2020-04-02 17:00:00,Borough,Staten Island,2723
 2020-04-02 17:00:00,Borough,Unknown,35
+2020-04-09 17:00:00,Age Group,0 to 17,1644
+2020-04-09 17:00:00,Age Group,18 to 44,32565
+2020-04-09 17:00:00,Age Group,45 to 64,30215
+2020-04-09 17:00:00,Age Group,65 to 74,10644
+2020-04-09 17:00:00,Age Group,75 and over,9114
+2020-04-09 17:00:00,Age Group,Unknown,191
+2020-04-09 17:00:00,Age 50 and over,Yes,42790
+2020-04-09 17:00:00,Age 50 and over,No,41392
+2020-04-09 17:00:00,Sex,Female,38495
+2020-04-09 17:00:00,Sex,Male,45491
+2020-04-09 17:00:00,Sex,Unknown,387
+2020-04-09 17:00:00,Borough,Bronx,17648
+2020-04-09 17:00:00,Borough,Brooklyn,22550
+2020-04-09 17:00:00,Borough,Manhattan,11244
+2020-04-09 17:00:00,Borough,Queens,27063
+2020-04-09 17:00:00,Borough,Staten Island,5831
+2020-04-09 17:00:00,Borough,Unknown,37
 2020-04-04 17:00:00,Age Group,0 to 17,1046
 2020-04-04 17:00:00,Age Group,18 to 44,23492
 2020-04-04 17:00:00,Age Group,45 to 64,21167
@@ -50,6 +67,23 @@ dt,first,second,Total Cases
 2020-04-04 17:00:00,Borough,Queens,19793
 2020-04-04 17:00:00,Borough,Staten Island,3266
 2020-04-04 17:00:00,Borough,Unknown,35
+2020-04-10 17:00:00,Age Group,0 to 17,1849
+2020-04-10 17:00:00,Age Group,18 to 44,36102
+2020-04-10 17:00:00,Age Group,45 to 64,33538
+2020-04-10 17:00:00,Age Group,65 to 74,11626
+2020-04-10 17:00:00,Age Group,75 and over,10085
+2020-04-10 17:00:00,Age Group,Unknown,214
+2020-04-10 17:00:00,Age 50 and over,Yes,47298
+2020-04-10 17:00:00,Age 50 and over,No,45902
+2020-04-10 17:00:00,Sex,Female,42716
+2020-04-10 17:00:00,Sex,Male,50293
+2020-04-10 17:00:00,Sex,Unknown,405
+2020-04-10 17:00:00,Borough,Bronx,20265
+2020-04-10 17:00:00,Borough,Brooklyn,24635
+2020-04-10 17:00:00,Borough,Manhattan,12088
+2020-04-10 17:00:00,Borough,Queens,29409
+2020-04-10 17:00:00,Borough,Staten Island,6979
+2020-04-10 17:00:00,Borough,Unknown,38
 2020-03-27 17:00:00,Age Group,0 to 17,524
 2020-03-27 17:00:00,Age Group,18 to 44,11202
 2020-03-27 17:00:00,Age Group,45 to 64,8745
@@ -84,6 +118,23 @@ dt,first,second,Total Cases
 2020-04-03 17:00:00,Borough,Queens,17832
 2020-04-03 17:00:00,Borough,Staten Island,3012
 2020-04-03 17:00:00,Borough,Unknown,35
+2020-04-08 17:00:00,Age Group,0 to 17,1447
+2020-04-08 17:00:00,Age Group,18 to 44,29977
+2020-04-08 17:00:00,Age Group,45 to 64,27965
+2020-04-08 17:00:00,Age Group,65 to 74,9945
+2020-04-08 17:00:00,Age Group,75 and over,8463
+2020-04-08 17:00:00,Age Group,Unknown,170
+2020-04-08 17:00:00,Age 50 and over,Yes,39724
+2020-04-08 17:00:00,Age 50 and over,No,38073
+2020-04-08 17:00:00,Sex,Female,35626
+2020-04-08 17:00:00,Sex,Male,41972
+2020-04-08 17:00:00,Sex,Unknown,369
+2020-04-08 17:00:00,Borough,Bronx,15803
+2020-04-08 17:00:00,Borough,Brooklyn,21109
+2020-04-08 17:00:00,Borough,Manhattan,10642
+2020-04-08 17:00:00,Borough,Queens,25715
+2020-04-08 17:00:00,Borough,Staten Island,4661
+2020-04-08 17:00:00,Borough,Unknown,37
 2020-04-05 17:00:00,Age Group,0 to 17,1124
 2020-04-05 17:00:00,Age Group,18 to 44,24994
 2020-04-05 17:00:00,Age Group,45 to 64,22694
@@ -267,3 +318,20 @@ dt,first,second,Total Cases
 2020-03-23 17:00:00,Borough,Queens,3621
 2020-03-23 17:00:00,Borough,Staten Island,817
 2020-03-23 17:00:00,Borough,Unknown,6
+2020-04-07 17:00:00,Age Group,0 to 17,1306
+2020-04-07 17:00:00,Age Group,18 to 44,27841
+2020-04-07 17:00:00,Age Group,45 to 64,25937
+2020-04-07 17:00:00,Age Group,65 to 74,9253
+2020-04-07 17:00:00,Age Group,75 and over,7844
+2020-04-07 17:00:00,Age Group,Unknown,143
+2020-04-07 17:00:00,Age 50 and over,Yes,36892
+2020-04-07 17:00:00,Age 50 and over,No,35289
+2020-04-07 17:00:00,Sex,Female,32982
+2020-04-07 17:00:00,Sex,Male,39214
+2020-04-07 17:00:00,Sex,Unknown,128
+2020-04-07 17:00:00,Borough,Bronx,14421
+2020-04-07 17:00:00,Borough,Brooklyn,19499
+2020-04-07 17:00:00,Borough,Manhattan,10098
+2020-04-07 17:00:00,Borough,Queens,24115
+2020-04-07 17:00:00,Borough,Staten Island,4154
+2020-04-07 17:00:00,Borough,Unknown,37

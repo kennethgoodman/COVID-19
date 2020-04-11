@@ -1,0 +1,15 @@
+first,second,Underlying Conditions,No Underlying Conditions,Pending,Total
+,0 to 17,2.0,0.0,0.0,2.0
+,18 to 44,161.0,16.0,26.0,203.0
+,45 to 64,714.0,30.0,131.0,875.0
+,65 to 74,682.0,10.0,202.0,894.0
+,75 and over,1096.0,13.0,519.0,1628.0
+Sex,Female,932.0,12.0,313.0,1257.0
+Sex,Male,1562.0,52.0,540.0,2154.0
+Sex,Unknown,161.0,5.0,25.0,191.0
+Borough,Bronx,853.0,12.0,71.0,936.0
+Borough,Brooklyn,606.0,12.0,343.0,961.0
+Borough,Manhattan,287.0,13.0,89.0,389.0
+Borough,Queens,791.0,28.0,317.0,1136.0
+Borough,Staten Island,117.0,4.0,58.0,179.0
+Borough,Unknown,1.0,0.0,0.0,1.0
