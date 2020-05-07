@@ -1,0 +1,20 @@
+first,second,Total Cases
+Age Group,0 to 17,4088
+Age Group,18 to 44,62718
+Age Group,45 to 64,62700
+Age Group,65 to 74,21245
+Age Group,75 and over,19451
+Age Group,Unknown,332
+Age 50 and over,Yes,88754
+Age 50 and over,No,81448
+Sex,Female,82463
+Sex,Male,87829
+Sex,Unknown,242
+Borough,Bronx,38973
+Borough,Brooklyn,45341
+Borough,Manhattan,21125
+Borough,Queens,52845
+Borough,Staten Island,12169
+Borough,Unknown,81
+Borough,Confirmed,13536
+Borough,Probable,5373
